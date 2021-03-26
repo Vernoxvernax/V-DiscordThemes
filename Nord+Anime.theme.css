@@ -1,11 +1,30 @@
 /**
-* @name Nord+Anime
-* @author DepriSheep#1841
-* @version 1.4
-* @description worst fuckn code ever. a fuckn miracle its even running
-* @source https://github.com/Vernoxvernax/V-DiscordThemes
+ * @name Nord+Anime
+ * @author AryToNeX, Yotta, mwittrien, gibbu and VernoxVernax (DepriSheep#1841)
+ * @version 1.5
+ * @description worst "code" ever; a fuckn miracle, it's even running
+ * @source https://github.com/Vernoxvernax/V-DiscordThemes
+ * @patreon https://patreon.com/arytonex
+ * @donate https://ko-fi.com/arytonex
+ * @authorLink http://arytonex.pw
+ * @requires Glasscord>=0.0.5
 */
-@import url("https://vernoxvernax.github.io/V-DiscordThemes/dcsl.css");
+
+/*
+   Copyright 2020 AryToNeX
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/css/dcsl.css");
+/*@import url("https://vernoxvernax.github.io/V-DiscordThemes/dcsl.css");*/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 @import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
 /*@import url("https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css");*/
