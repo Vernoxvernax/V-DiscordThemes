@@ -1,7 +1,7 @@
 /**
  * @name Nord+Anime
  * @author AryToNeX, Yotta, mwittrien, gibbu and VernoxVernax (DepriSheep#1841)
- * @version 1.5
+ * @version 1.6
  * @description worst "code" ever; a fuckn miracle, it's even running
  * @source https://github.com/Vernoxvernax/V-DiscordThemes
  * @patreon https://patreon.com/arytonex
@@ -59,11 +59,11 @@
 	--active: #81a1c13d !important;
 	
 	/*SIZE AND SPACE SETTINGS (server icons) FROM GIBU (grey import)*/
-	--server-container-padding: 41px;
+	--server-container-padding: -53px;
 	--server-icon-spacing: 6px;
 	--server-icon-size: 53px;
 	--icon: var(--server-icon-size, var(--ASW_size, 35px));
-	--container: calc(var(--icon) + calc(var(--server-container-padding) * 2));
+	--container: calc(var(--icon) + calc(var(--server-container-padding)));
 	--asw-version: "Adjustable Server Width 2.0.3";
 	
 	
@@ -79,6 +79,7 @@
     --channel-hover-text-color: rgba(255, 255, 255, 0.5);
     --unread-text-color: #FFFFFFFF;
     --user-popup-background: rgba(0, 0, 0, 0.25);
+    
     /*VERY CUSTOM SETTING BY MYSELF*/
     --channels-default: #B5B5B5;
     --text-muted: #B3B3B3;
@@ -92,6 +93,10 @@
 .content-1o0f9g {
     color: #FF0000;
 }*/
+.base-3dtUhz {
+    left: 126px;
+}
+
 #---new-messages-bar{
     border-color: #f04747FF;
     border-top: 2px solid #f04747FF;
@@ -153,10 +158,10 @@ div[aria-label="Explore Public Servers"]{
   height: var(--icon);
 }
 .wrapper-3NnKdC{
-    left: 7px;                              /*SHIFT SERVERs TO LEFT*/
+    left: 3px;                             /*SHIFT SERVERs TO RIGHT*/
 }
 
-/*NORD THEME SETTINGS (mostly color)*/
+                                            /*NORD THEME SETTINGS (mostly color)*/
 .theme-dark{
 	--background-primary: #00000000;
 	--background-primary-alt: #0000000;
