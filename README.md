@@ -8,6 +8,7 @@ The .css does NOT have pretty code and is probably a much bigger mess than any o
 I do NOT recommend you to use, or even downlod my theme as I still don't have any idea of css or coding in general.
 Ok, with all these disclaimers out of the way, here is the important stuff:
 
+BELOW INFO IS OUTDATED!!!!!
 
 Prerequisites:
 + Bandaged Discord by rauenzi - https://github.com/rauenzi/BetterDiscordApp
