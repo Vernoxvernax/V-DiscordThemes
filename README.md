@@ -1,3 +1,5 @@
+# DEAD - as long as betterdiscord ignores transparency and wont publish a fix
+
 For everyone who somehow found my github page:
 
 This is just some dumb discord theme I threw together.
