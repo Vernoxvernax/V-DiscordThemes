@@ -1,4 +1,4 @@
-# DEAD - as long as betterdiscord ignores transparency and wont publish a fix
+#### ITS WORKING AGAIN. (not perfectly but I can see through discord again!!)
 
 For everyone who somehow found my github page:
 
